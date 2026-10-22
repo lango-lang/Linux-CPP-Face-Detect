@@ -1,0 +1,8 @@
+camera_test
+face_detect
+main
+*.o
+*.jpg
+*.png
+*:Zone.Identifier
+.ssh/
